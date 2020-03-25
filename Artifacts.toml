@@ -1,0 +1,113 @@
+[[KCP]]
+arch = "aarch64"
+git-tree-sha1 = "042471c68ce7c819a85c771dce41c81c357444c1"
+libc = "musl"
+os = "linux"
+
+    [[KCP.download]]
+    sha256 = "b61851c6c054f08308f196f3b434efc2525e1278344fb36e83ac1df38e19973d"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.aarch64-linux-musl.tar.gz"
+[[KCP]]
+arch = "i686"
+git-tree-sha1 = "b74b597502903996b8b5608d368e8d82a267d9d0"
+os = "windows"
+
+    [[KCP.download]]
+    sha256 = "330e8fdfd0756c643f106d3b85b2a7ea1bb082187d1fa14d454d14aac5130e21"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.i686-w64-mingw32.tar.gz"
+[[KCP]]
+arch = "x86_64"
+git-tree-sha1 = "55a80ce25dd80896d0b2eadba4179c7d1adc7636"
+libc = "musl"
+os = "linux"
+
+    [[KCP.download]]
+    sha256 = "6d54503db0ce8ef0ac376ddeb10bc60fd4b0127088905ab022375d81b6d22a01"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.x86_64-linux-musl.tar.gz"
+[[KCP]]
+arch = "i686"
+git-tree-sha1 = "b8716f80d3aa6f00e79a04cad0d15eccbcf74ac1"
+libc = "glibc"
+os = "linux"
+
+    [[KCP.download]]
+    sha256 = "49cabb624fc45685a09c24184d85750961ebb7f46a226e4bbc8bc8f4d477d20d"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.i686-linux-gnu.tar.gz"
+[[KCP]]
+arch = "armv7l"
+git-tree-sha1 = "e753973d30765badedd661b6e2d65ccd77dc6c2f"
+libc = "glibc"
+os = "linux"
+
+    [[KCP.download]]
+    sha256 = "7c4c9059b2f04fb55cd10b3825fcfac43c634ef4ec685c8e606f139af4b1eb14"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.armv7l-linux-gnueabihf.tar.gz"
+[[KCP]]
+arch = "aarch64"
+git-tree-sha1 = "643b3c6932f5ba8b739c11286d7c1ed8cd63cf21"
+libc = "glibc"
+os = "linux"
+
+    [[KCP.download]]
+    sha256 = "6b8846ba91495cb867cd9c0f20cd94608271eddb66a66db22ca653382ff6816c"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.aarch64-linux-gnu.tar.gz"
+[[KCP]]
+arch = "x86_64"
+git-tree-sha1 = "c88afb15f4616f2940ae560dab7b6363b4c6bdb7"
+libc = "glibc"
+os = "linux"
+
+    [[KCP.download]]
+    sha256 = "77e4a1255b0bd7f444fdf7ab669e1cf07737190cc1e7b7d929218a93352adba1"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.x86_64-linux-gnu.tar.gz"
+[[KCP]]
+arch = "powerpc64le"
+git-tree-sha1 = "92bb847b52cbb52596cbbb783047de58fe7b5560"
+libc = "glibc"
+os = "linux"
+
+    [[KCP.download]]
+    sha256 = "b4b0f67a4343b8fd41eed4dd3ab0da352d3be1ce112ca98e63030e25fda82e75"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.powerpc64le-linux-gnu.tar.gz"
+[[KCP]]
+arch = "x86_64"
+git-tree-sha1 = "3058a37dc0fedc5bf4d30f135a8eba0884ef4bb7"
+os = "macos"
+
+    [[KCP.download]]
+    sha256 = "215009afa4abf1cea14f28c1a92564771553da706f0be6e363a5b709974d3d4d"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.x86_64-apple-darwin14.tar.gz"
+[[KCP]]
+arch = "x86_64"
+git-tree-sha1 = "4efc0aaee144d0caf008fb3be4d9124070250834"
+os = "freebsd"
+
+    [[KCP.download]]
+    sha256 = "272b6393be7f630bb406de1c96f3a2f68727dd896535d660d15acaec0e15878f"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[KCP]]
+arch = "i686"
+git-tree-sha1 = "4954a1fbc781e98cd3a08fb167ea25ac3cf13b3a"
+libc = "musl"
+os = "linux"
+
+    [[KCP.download]]
+    sha256 = "7051fa9a15ea7a18642666e7881fe82e4b1dae4a2145570a2f3ed083966dfa94"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.i686-linux-musl.tar.gz"
+[[KCP]]
+arch = "armv7l"
+git-tree-sha1 = "d2981b727e659130d6450673eca0a534710824d4"
+libc = "musl"
+os = "linux"
+
+    [[KCP.download]]
+    sha256 = "f984664deeb849ff2b485aa3c57045184e0d6355c9a991c2f96e4800cef0da1b"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.armv7l-linux-musleabihf.tar.gz"
+[[KCP]]
+arch = "x86_64"
+git-tree-sha1 = "ff1b745aa86c46c2dbfdd42fc2453b2d812a29ac"
+os = "windows"
+
+    [[KCP.download]]
+    sha256 = "5b360eeb215df950e56f06b22f199f8bb19faa4b1fe8c0f42be725d20394d71d"
+    url = "https://github.com/JuliaBinaryWrappers/KCP_jll.jl/releases/download/KCP-v1.5.0+0/KCP.v1.5.0.x86_64-w64-mingw32.tar.gz"
